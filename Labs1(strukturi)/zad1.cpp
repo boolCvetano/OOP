@@ -14,7 +14,7 @@ void printHighestPricedItem(...):
 кoja што за секоја кошничка ќе го испечати името на производот со најголема цена и id-то на кошничката од кој што доаѓа тој
  производ.
 
- #include <iostream>
+#include <iostream>
 #include <cstring>
 #include <cctype>
 #include <iomanip>
