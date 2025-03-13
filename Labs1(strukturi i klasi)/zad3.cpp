@@ -6,7 +6,7 @@
 - Провизија (int)
 - Дали е платено со дебитна или кредитна картичка (0 - дебитна, 1 - кредитна)
 
-  #include <iostream>
+#include <iostream>
 #include <cstring>
 #include <cctype>
 #include <iomanip>
